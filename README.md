@@ -36,8 +36,8 @@ And I have been collaborating with a few startups working on projects, and to si
 
 More on me,
 
-- 🔭 I’m currently working on building my network of developers, experimenting with tools that I have, and also I do like to explore new skills
-- 🌱 I’m currently learning a few things about NLp and MLOps.
+- 🔭 I’m currently working on building my network of developers, experimenting with tools that I have.
+- 🌱 I’m always learning something.
 - 👯 I’m looking to collaborate on a website development and would need someone who is well versed with django rest and nodejs.
 - 💬 Ask me about Data science and would love to get on open ended discussions on new ideas.
 - 📫 How to reach me: Just hit a mail on miran@pluggonline.co.uk
