@@ -5,6 +5,7 @@ Skilled and ambitious Data Science developer with 2 years of experience working 
 A brief list of things that I do:
 
 - Teach programming (Python, R, SQL, Js) 💻.
+- Collaborate with devs/startups on their projects.
 
 - Mentor students to grow their skills to become employment ready in Data science💫.
 
