@@ -40,7 +40,7 @@ More on me,
 - 🌱 I’m always learning something.
 - 👯 I’m looking to collaborate on a website development and would need someone who is well versed with django rest and nodejs.
 - 💬 Ask me about Data science and would love to get on open ended discussions on new ideas.
-- 📫 How to reach me: Just hit a mail on miran@pluggonline.co.uk
+- 📫 How to reach me: Just hit a mail on mirankadri9@gmail.com
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirankadri&label=Profile%20views&color=0e75b6&style=flat" alt="mirankadri" /> </p>
