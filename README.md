@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## This is Miran kadri
-Skilled and ambitious Data Science developer with 2 years of experience working in data science related startups, and handling freelancing projects.
+Skilled and ambitious Data Science developer with over 3 years of experience working in data science related startups, and handling freelancing projects.
+I am currently working at Network Financial as a Data Analyst.
 
 A brief list of things that I do:
 
